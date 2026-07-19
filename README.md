@@ -9,7 +9,14 @@ The objective is to answer business questions related to sales performance, cust
 A total of 28 business questions have been solved in this project.
 
 ---
+## Tech Stack
 
+- MySQL
+- MySQL Workbench
+- SQL
+- Git
+- GitHub
+- 
 ## Business Problem
 
 A global electronics retailer wants to better understand its sales performance and customer behaviour. Using SQL, this project answers important business questions that help identify sales trends, top-performing products, customer segments, and overall business performance.
