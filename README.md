@@ -33,7 +33,7 @@ The Sales table acts as the central fact table and is connected to the other tab
 
 The following Entity Relationship (ER) diagram shows the relationships between the tables used in this project.
 
-![ER Diagram](Images/ER_Diagram.png)
+![ER_Diagram](Images/ER_Diagram.png)
 
 ## Business Questions Answered
 
